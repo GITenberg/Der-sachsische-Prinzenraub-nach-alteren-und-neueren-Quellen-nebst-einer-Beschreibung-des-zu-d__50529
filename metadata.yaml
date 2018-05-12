@@ -1,4 +1,8 @@
 _repo: Der-sachsische-Prinzenraub-nach-alteren-und-neueren-Quellen-nebst-einer-Beschreibung-des-zu-d__50529
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50529-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -9,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50529#Der-sachsische-Prinzenraub-nach-alteren-und-neueren-Quellen-nebst-einer-Beschreibung-des-zu-d_
 gutenberg_issued: '2015-11-22'
 gutenberg_type: Text
 identifiers:
